@@ -3,6 +3,5 @@ def square_array(array)
     new_array = []
     new_i= i**1
     new_array.push(new_i)
-    return new_array
   end
 end
