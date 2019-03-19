@@ -5,4 +5,4 @@ new_array = Array.new
 array.each do
   new_array.push(numbers)
 end
-  end
+  
