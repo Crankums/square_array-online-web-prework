@@ -5,5 +5,4 @@ def square_array(array)
    new_array.push(number)
   end
   return new_array
-  binding.pry
 end
