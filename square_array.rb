@@ -3,4 +3,3 @@ def square_array(array)
     element**
   end
 end
-end
